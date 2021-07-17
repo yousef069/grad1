@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "784777972852",
+    "project_id": "grad-884d9",
+    "storage_bucket": "grad-884d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784777972852:android:c8df5ed2f186720d14d521",
+        "android_client_info": {
+          "package_name": "com.example.yousefgrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784777972852-3uefbp4i7un95nt880v2ck3b2lhavr6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBP_EoQvCKEfL1z4fDaV2hEoCD5b_I-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784777972852-3uefbp4i7un95nt880v2ck3b2lhavr6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784777972852:android:98d2e5b7d93908f114d521",
+        "android_client_info": {
+          "package_name": "com.example.yousefgrad1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784777972852-3uefbp4i7un95nt880v2ck3b2lhavr6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBP_EoQvCKEfL1z4fDaV2hEoCD5b_I-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784777972852-3uefbp4i7un95nt880v2ck3b2lhavr6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
